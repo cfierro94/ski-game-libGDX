@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/constanzafierro/AndroidStudioProjects/Ski/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="07db45ea450ad62625b9837502efd8770ba97d9e">
+        <dex dex="/Users/constanzafierro/AndroidStudioProjects/Ski/android/build/intermediates/pre-dexed/debug/core-1.0-85c0f602c616c98222ff3273f36e26a40781a830.jar" />
+    </item>
+    <item
+        jar="/Users/constanzafierro/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.7.1/2179cc613447c297623a4a6d2ba6692c3aaff804/gdx-1.7.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2179cc613447c297623a4a6d2ba6692c3aaff804">
+        <dex dex="/Users/constanzafierro/AndroidStudioProjects/Ski/android/build/intermediates/pre-dexed/debug/gdx-1.7.1-93532060fe5860c4f3f3b9118cae975b068238e7.jar" />
+    </item>
+    <item
+        jar="/Users/constanzafierro/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.7.1/454871d4783564f17959bf9247660e7f56ecc4ab/gdx-backend-android-1.7.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="454871d4783564f17959bf9247660e7f56ecc4ab">
+        <dex dex="/Users/constanzafierro/AndroidStudioProjects/Ski/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.7.1-bda9a15b44d33370834531259195e210a4f6f70e.jar" />
+    </item>
+    <item
+        jar="/Users/constanzafierro/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.7.1/fd23897393900f8f888222795e3229eff600fb3d/gdx-box2d-1.7.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd23897393900f8f888222795e3229eff600fb3d">
+        <dex dex="/Users/constanzafierro/AndroidStudioProjects/Ski/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.7.1-a194ee500b7b4bb5e6836e033f550c3f054fe53b.jar" />
+    </item>
+
+</items>
